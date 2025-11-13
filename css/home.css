@@ -146,7 +146,7 @@ main {
     color: #585858;
     font-family: 'Pixelify Sans';
     font-size: 12px;
-    low-x: hidden;
+    overflow-y: scroll;
     scrollbar-color: #f255fa67 #e6e6e600;
     scrollbar-width: thin;
     background-color: #e8dde8;
@@ -420,3 +420,4 @@ footer {
     }
 
 }
+
